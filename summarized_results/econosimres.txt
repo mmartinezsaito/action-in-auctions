@@ -1,0 +1,114 @@
+                        fun: 3593.7976781114271
+ lowest_optimization_result:       fun: 3593.7976781114271
+ hess_inv: <2x2 LbfgsInvHessProduct with dtype=float64>
+      jac: array([  3.63797881e-04,   7.07206482e+02])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 18
+      nit: 4
+   status: 0
+  success: True
+        x: array([ 1.93642815,  0.1       ])
+                    message: ['requested number of basinhopping iterations completed successfully']
+      minimization_failures: 0
+                       nfev: 270
+                        nit: 10
+                          x: array([ 1.93642815,  0.1       ])
+
+
+
+
+
+                        fun: 3940.5552729698479
+ lowest_optimization_result:       fun: 3940.5552729698479
+ hess_inv: <2x2 LbfgsInvHessProduct with dtype=float64>
+      jac: array([ 0.00013642, -0.00068212])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 24
+      nit: 6
+   status: 0
+  success: True
+        x: array([ 1.03133458,  0.65416693])
+                    message: ['requested number of basinhopping iterations completed successfully']
+      minimization_failures: 0
+                       nfev: 246
+                        nit: 10
+                          x: array([ 1.03133458,  0.65416693])
+
+
+
+                        fun: 3717.9314935592865
+ lowest_optimization_result:       fun: 3717.9314935592865
+ hess_inv: <2x2 LbfgsInvHessProduct with dtype=float64>
+      jac: array([  2.72848411e-04,  -2.26740849e+02])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 27
+      nit: 4
+   status: 0
+  success: True
+        x: array([ 1.49731409,  1.        ])
+                    message: ['requested number of basinhopping iterations completed successfully']
+      minimization_failures: 0
+                       nfev: 207
+                        nit: 10
+                          x: array([ 1.49731409,  1.        ])
+
+
+
+
+{'b'} 1.1247337725 scott 2159 0.0330175111762 -3818.68261621 dict_values([-189.50173495937759, -211.14592691544996, -202.06244405530822, -212.30741255913597, -202.30030866987445, -213.0013721952634, -234.76654643710208, -212.90459076837922, -224.90654320049384, -227.80263359642842, -219.68765028688787, -214.03016429386747, -194.88241472121445, -206.14226090516365, -218.99749014091336, -227.16114732842885, -202.22865753772547, -204.85331763791984])
+
+ lowest_optimization_result:       fun: 3818.6826162089333
+ hess_inv: <1x1 LbfgsInvHessProduct with dtype=float64>
+      jac: array([-0.00022737])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 10
+      nit: 3
+   status: 0
+  success: True
+        x: array([ 1.12473376])
+                    message: ['requested number of basinhopping iterations completed successfully']
+      minimization_failures: 0
+                       nfev: 118
+                        nit: 10
+                          x: array([ 1.12473376])
+
+
+
+
+{'c'} 0.99739506343 scott 4319 0.0101963941263 -3943.99856958 dict_values([-202.47737148277773, -237.59567160373228, -209.44312828841234, -206.38306793682213, -208.11228687767951, -201.00532424847214, -251.25880578055748, -209.37043862943426, -212.52119860454937, -241.12215366443894, -257.52040475977788, -221.57594879174019, -200.74913984464121, -244.28377197033771, -214.1885350415279, -211.2511353326737, -202.79070754470507, -212.34947917631644])
+
+                        fun: 3943.9985695772552
+ lowest_optimization_result:       fun: 3943.9985695772552
+ hess_inv: <1x1 LbfgsInvHessProduct with dtype=float64>
+      jac: array([ 0.0007276])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 10
+      nit: 2
+   status: 0
+  success: True
+        x: array([ 0.99739265])
+                    message: ['requested number of basinhopping iterations completed successfully']
+      minimization_failures: 0
+                       nfev: 116
+                        nit: 10
+                          x: array([ 0.99739265])
+
+
+{'d'} 1.85797197542 scott 6479 0.00910828904435 -3636.86060466 dict_values([-182.02334038829142, -197.32626889816027, -188.45963249682859, -222.97045159682858, -235.2593066777174, -172.72663420136115, -188.56242840101223, -246.40098332842297, -201.86694997572698, -189.64083570882357, -234.26844677638343, -251.40583931523793, -193.04554064562564, -190.99115044241566, -190.80423606182455, -176.62580084686766, -188.99015934943216, -185.49259954459646])
+
+                        fun: 3636.8606046555387
+ lowest_optimization_result:       fun: 3636.8606046555387
+ hess_inv: <1x1 LbfgsInvHessProduct with dtype=float64>
+      jac: array([ 0.0001819])
+  message: b'CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH'
+     nfev: 12
+      nit: 4
+   status: 0
+  success: True
+        x: array([ 1.85797163])
+                    message: ['requested number of basinhopping iterations completed successfully']
+      minimization_failures: 0
+                       nfev: 136
+                        nit: 10
+                          x: array([ 1.85797163])
+
