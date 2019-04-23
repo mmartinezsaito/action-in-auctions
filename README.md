@@ -2,7 +2,7 @@
 # action-in-auctions
 
 
-Python source code (src/) for:
+Python 3.6.7 source code (src/) for:
 - Model fits
 - Artificial bidder agents simulations
 - Simulation plots
