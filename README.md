@@ -1,18 +1,23 @@
 
-# action-in-auctions
+## action-in-auctions
+Python code and behavioral data for the article "Action in auctions: neural and computational mechanisms of bidding behaviour".
 
 
-Python 3.6.7 source code (src/) for:
-- Model fits
-- Artificial bidder agents simulations
-- Simulation plots
-- BIC and corrected AIC calculation 
+### Contents index
+- /src
+ Python 3.6.7 source code (src/) for: 
+  * Model fits
+  * Artificial bidder agents simulations
+  * Simulation plots
+  * BIC and corrected AIC calculation 
+  * A few examples can be found in src/main.py
 
+- /fitdat 
+ Analysis results for
+  * Numerical MLE optimization fits
+  * Simulation results for DL-type and RL-type agents
 
-Analysis results:
-- Numerical MLE optimization fits (fitdat/ and summarized_results/)
-- Simulations for DL-type and RL-type agents (fitdat/ and summarized_results/)
-
-
-A few examples can be found in src/main.py
+- /data
+  * data.csv: raw data
+  * PrerecordedData.csv: prerecorded behavioral data from a previous experiment used to "animate" the computer surrogate opponents.
 
